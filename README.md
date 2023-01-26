@@ -9,8 +9,6 @@
 </div>
   
   <a href="https://instagram.com/na.iara_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://telegram.com/oliveiranaiara" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"</a>
- <a href="https://telegram.com/oliveiranaiara" target="_blank"><img src="https://https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
-  <a href="https://telegram.com/oliveiranaiara" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"</a>
+ 
   
-  ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/oliveiranaiara/oliveiranaiara/blob/output/github-contribution-grid-snake.svg)
