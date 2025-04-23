@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7CC9B&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1+me+chamo+Naiara+" alt="Typing SVG" /></a>
-- 🌱 Estudando Html5, CSS, JS, C,.Net
+- 🌱 Estudante Ciência de Dados 
 - 😄 Ela/Dela
 
 > <div align="center">
